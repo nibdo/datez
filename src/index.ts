@@ -111,6 +111,6 @@ export default class Datez {
       return date.setZone(softedTimezone);
     }
 
-    return date;
+    return result;
   }
 }
