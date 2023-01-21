@@ -1,6 +1,6 @@
 {
   "name": "datez",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": "nibdo",
   "license": "MIT",
   "private": false,
@@ -15,18 +15,18 @@
     "timezone-soft": "1.4.1"
   },
   "peerDependencies": {
-    "luxon": "3.1.1"
+    "luxon": "3.2.1"
   },
   "devDependencies": {
-    "@types/luxon": "3.1.0",
-    "@types/node": "18.11.10",
-    "@typescript-eslint/eslint-plugin": "5.45.0",
-    "@typescript-eslint/parser": "5.45.0",
-    "eslint": "8.29.0",
+    "@types/luxon": "3.2.0",
+    "@types/node": "18.11.18",
+    "@typescript-eslint/eslint-plugin": "5.48.2",
+    "@typescript-eslint/parser": "5.48.2",
+    "eslint": "8.32.0",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-prettier": "4.2.1",
-    "prettier": "2.8.0",
-    "typescript": "4.9.3"
+    "prettier": "2.8.3",
+    "typescript": "4.9.4"
   },
   "scripts": {
     "start": "tsc && node dist/index.js",
